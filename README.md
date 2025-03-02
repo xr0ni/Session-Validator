@@ -6,7 +6,7 @@
 - FB DTSG Extraction - Obtain critical authentication token
 - Color-coded Logging - Real-time status updates with colorama
 - Result Export - Save valid sessions in multiple formats
-
+---
 🚀 Usage
 1. Prepare files:
 - sessions.txt - One session cookie per line
@@ -14,7 +14,7 @@
 
 2. Run validator:
 - python validator.py
-
+---
 ⚠️ Critical Notice
 Legal Compliance:
 - Use only on accounts you own
